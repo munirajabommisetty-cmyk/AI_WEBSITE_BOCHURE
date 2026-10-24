@@ -1,0 +1,5 @@
+python-dotenv
+ipython
+openai
+tiktoken
+claude
